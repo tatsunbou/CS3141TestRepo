@@ -1,9 +1,9 @@
 /*
- * Prints "Hello Michigan Tech!"
+ * Prints "Hello Team Software!"
  */
 
 #include <stdio.h>   // Needed for printf function
 
 int main(){
-    printf("Hello Michigan Tech!");
+    printf("Hello Team Software!");
 }
